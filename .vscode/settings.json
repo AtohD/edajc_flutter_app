@@ -1,0 +1,30 @@
+{
+  "dart.enableSdkFormatter": true,
+  "dart.lineLength": 80,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.organizeImports": true
+    }
+  },
+  "dart.flutterSdkPath": "c:\\flutter\\src\\flutter",
+  "dart.analyzeAngularTemplates": false,
+  "search.exclude": {
+    "**/.dart_tool": true,
+    "**/build": true,
+    "**/.pub": true,
+    "**/.flutter-plugins": true,
+    "**/.packages": true
+  },
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/build": true,
+    "**/.pub": true,
+    "**/.flutter-plugins": true,
+    "**/.packages": true
+  }
+}

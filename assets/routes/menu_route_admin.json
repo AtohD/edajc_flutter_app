@@ -1,0 +1,102 @@
+[
+  {
+    "groupName": "",
+    "menuList": [
+      {
+        "icon": "assets/sidebar/dashboard.svg",
+        "menuName": "Tableau de bord",
+        "path": "/"
+      },
+      {
+        "icon": "assets/sidebar/calendar.svg",
+        "menuName": "Gestion de l'administration",
+        "path": "/calendar"
+      },
+      {
+        "icon": "assets/sidebar/users.svg",
+        "menuName": "Gestion des âmes",
+        "path": "/GestionAme1"
+      },
+      {
+        "icon": "assets/sidebar/book-bookmark.svg",
+        "menuName": "Fiches pédagogiques",
+        "path": "/fichepedagogique"
+      },
+      {
+        "icon": "assets/sidebar/calendar-lines-pen.svg",
+        "menuName": "Suivi d'ames",
+        "path": "/suiviame"
+      },
+      {
+        "icon": "assets/sidebar/forms.svg",
+        "menuName": "Module1",
+        "childList": [
+          {
+            "menuName": "Jesus créateur de l'univers",
+            "path": "/formModule1T1"
+          },
+          {
+            "menuName": "Le Baptème qui sauve",
+            "path": "/formModule1T2"
+          },
+          {
+            "menuName": "Le Saint-Esprit",
+            "path": "/formModule1T3"
+          }
+        ]
+      },
+      {
+        "icon": "assets/sidebar/forms.svg",
+        "menuName": "Module2",
+        "childList": [
+          {
+            "menuName": "La Prière 1",
+            "path": "/formModule2T1"
+          },
+          {
+            "menuName": "La Prière 2",
+            "path": "/formModule2T"
+          },
+          {
+            "menuName": "La Sanctification",
+            "path": "/formModule2T2"
+          }
+        ]
+      },
+      {
+        "icon": "assets/sidebar/forms.svg",
+        "menuName": "Module3",
+        "childList": [
+          {
+            "menuName": "La Foi",
+            "path": "/formModule3T1"
+          },
+          {
+            "menuName": "L'Adoration",
+            "path": "/formModule3T2"
+          }
+        ]
+      },
+      {
+        "icon": "assets/sidebar/edit.svg",
+        "menuName": "Evaluations",
+        "path": "/evaluations"
+      },
+      {
+        "icon": "assets/sidebar/invoice.svg",
+        "menuName": "Evaluations des enseignements",
+        "path": "/enseignevaluationstable"
+      },
+      {
+        "icon": "assets/sidebar/calendar.svg",
+        "menuName": "Base de donnée",
+        "path": "/ministrydatabase"
+      },
+      {
+        "icon": "assets/sidebar/profile.svg",
+        "menuName": "Profile",
+        "path": "/profile"
+      }
+    ]
+  }
+]

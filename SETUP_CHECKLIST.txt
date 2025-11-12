@@ -1,0 +1,48 @@
+✅ SETUP GITHUB ACTIONS - CHECKLIST
+
+== FICHIERS CRÉÉS ==
+✅ .github/workflows/build_apk.yml - Configuration GitHub Actions
+✅ push_to_github.bat - Script pour premier push (Windows)
+✅ BUILD_APK_GUIDE_FR.md - Guide complet en français
+✅ GITHUB_ACTIONS_SETUP.md - Documentation technique
+✅ SETUP_CHECKLIST.txt - Ce fichier
+
+== AVANT DE COMMENCER ==
+✅ Créer un compte GitHub (https://github.com)
+✅ Créer un nouveau repo
+✅ Avoir Git installé sur Windows
+
+== ÉTAPES ==
+
+1. CRÉER LE REPO GITHUB
+   - Va sur https://github.com/new
+   - Crée un repo (ex: EdajcFlutterApp)
+   - NE copie pas de fichier - repo vide
+
+2. EXÉCUTER LE SCRIPT
+   - Double-click sur push_to_github.bat
+   - Entre l'URL de ton repo
+   - Attends que ça se termine
+
+3. ATTENDRE LE BUILD
+   - Va sur GitHub > Actions
+   - Attends 10-15 minutes
+   - Télécharge l'APK quand c'est ✅
+
+4. PROCHAINES FOIS
+   - git add .
+   - git commit -m "description"
+   - git push origin main
+   - L'APK se buildera automatiquement
+
+== RÉSULTAT ==
+✅ APK généré automatiquement via GitHub Actions
+✅ Plus besoin de compiler localement
+✅ Plus de bug Kotlin Windows
+✅ Gratuit et illimité (2000 min/mois)
+
+== SUPPORT ==
+Si tu as des questions:
+- Lis BUILD_APK_GUIDE_FR.md
+- Lis GITHUB_ACTIONS_SETUP.md
+- Vérifie les logs dans GitHub > Actions

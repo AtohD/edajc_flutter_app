@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773372748774",
+    "project_id": "edajcapp",
+    "storage_bucket": "edajcapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773372748774:android:83388665926631f520ac27",
+        "android_client_info": {
+          "package_name": "top.flareline.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6h4PQ_Xok6tRMEEQmYX53B7HsbFKUO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
